@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1539473357322.000,
-    "dirty" : true,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
     "id" : "BE059B2F",
-    "lastKnownWriteTime" : 1539478114,
-    "last_content_update" : 1539478191317,
+    "lastKnownWriteTime" : 1539485051,
+    "last_content_update" : 1539485051344,
     "path" : "~/Documentos/github/webpage/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "119,0",
-        "scrollLine" : "114"
+        "cursorPosition" : "25,31",
+        "scrollLine" : "17"
     },
     "relative_order" : 2,
     "source_on_save" : false,
