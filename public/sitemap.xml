@@ -126,15 +126,6 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -215,6 +206,15 @@
     <url>
     
       <loc>/slides/example-slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2017-10-15T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
