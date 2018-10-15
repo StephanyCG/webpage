@@ -6,15 +6,15 @@
     <description>Recent content in R on Stephany</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 14 Oct 2018 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/en/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
+      <title>Good programing practices with R</title>
       <link>/en/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <pubDate>Sun, 14 Oct 2018 21:13:14 -0500</pubDate>
       
       <guid>/en/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.

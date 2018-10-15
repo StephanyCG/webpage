@@ -1,0 +1,80 @@
++++
+title = "Characterizacion of Evapotranspiration in crops around the Huancayo Observatory using Eddy Covariance Technique"
+date = 2016-12-01T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["CG Stephany"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["0"]
+
+# Publication name and optional abbreviated version.
+publication = "In *National University of San Marcos (UNMSM)*, Thesis EAP Engineering in Geography"
+publication_short = "In *UNMSM*"
+
+# Abstract and optional shortened version.
+abstract = "Evapotranspiration (ET) is essential to improve the understanding of the water exchange between the earth's surface and the atmosphere (hydrological cycle). Its monitoring is also crucial to design and adequate management of irrigation programs in crops, conservation of water resources and the hydraulics infrastructure planning. However, in Peru there are no detailed studies to understand the process of evapotranspiration. This is mainly due to the heterogeneity of the landscape, the lack of data measured directly in the field and the number of factors involved in its estimation. Therefore, the objective of the present study is to characterize the evapotranspiration in the crops surrounding the Huancayo Observatory (OH) of the IGP located in the Mantaro Valley, using measurements of a flux tower."
+
+abstract_short = "Evapotranspiration has an important role for crop irrigation and water balance, however, evapotranspiration studies in Peru are scarce. Thus, in this study we use the eddy covariance technique to measure evapotranspiration in the crops surrounding the Huancayo Observatory (OH) of the IGP located in the Mantaro Valley  during the months of July 2015 and July 2016."
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's filename without extension.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+#   Otherwise, set `projects = []`.
+projects = ["example-external-project"]
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
+# Links (optional).
+url_pdf = "http://cybertesis.unmsm.edu.pe/handle/cybertesis/5337"
+#url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Digital Object Identifier (DOI)
+doi = ""
+
+# Does this page contain LaTeX math? (true/false)
+math = true
+
+# Does this page require source code highlighting? (true/false)
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = "My caption :smile:"
+
++++
+
+More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

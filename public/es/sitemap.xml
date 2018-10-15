@@ -37,9 +37,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/es/talk/example-talk/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/en/talk/example-talk/" hreflang="en"/>
-    
       <loc>/es/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -70,9 +67,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/es/talk/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/en/talk/" hreflang="en"/>
-    
       <loc>/es/talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -81,9 +75,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/es/project/deep-learning/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/en/project/deep-learning/" hreflang="en"/>
-    
       <loc>/es/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00-05:00</lastmod>
     </url>
@@ -91,9 +82,6 @@
   
     
     <url>
-    
-      <xhtml:link rel="alternate" href="/es/project/example-external-project/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/en/project/example-external-project/" hreflang="en"/>
     
       <loc>/es/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00-05:00</lastmod>
@@ -113,9 +101,6 @@
   
     
     <url>
-    
-      <xhtml:link rel="alternate" href="/es/publication/person-re-identification/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/en/publication/person-re-identification/" hreflang="en"/>
     
       <loc>/es/publication/person-re-identification/</loc>
       <lastmod>2015-09-01T00:00:00-05:00</lastmod>
@@ -147,9 +132,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/es/publication_types/1/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/en/publication_types/1/" hreflang="en"/>
-    
       <loc>/es/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -159,9 +141,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/es/publication_types/2/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/en/publication_types/2/" hreflang="en"/>
-    
       <loc>/es/publication_types/2/</loc>
       <lastmod>2015-09-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -170,9 +149,6 @@
   
     
     <url>
-    
-      <xhtml:link rel="alternate" href="/es/tags/academic/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/en/tags/academic/" hreflang="en"/>
     
       <loc>/es/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00-05:00</lastmod>
@@ -194,9 +170,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/es/tags/deep-learning/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/en/tags/deep-learning/" hreflang="en"/>
-    
       <loc>/es/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -206,9 +179,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/es/tags/demo/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/en/tags/demo/" hreflang="en"/>
-    
       <loc>/es/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -217,9 +187,6 @@
   
     
     <url>
-    
-      <xhtml:link rel="alternate" href="/es/project/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/en/project/" hreflang="en"/>
     
       <loc>/es/project/</loc>
       <lastmod>2016-04-27T00:00:00-05:00</lastmod>
@@ -253,9 +220,6 @@
   
     
     <url>
-    
-      <xhtml:link rel="alternate" href="/es/tags/r-markdown/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/en/tags/r-markdown/" hreflang="en"/>
     
       <loc>/es/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
@@ -311,9 +275,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/es/tags/plot/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/en/tags/plot/" hreflang="en"/>
-    
       <loc>/es/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
@@ -322,9 +283,6 @@
   
     
     <url>
-    
-      <xhtml:link rel="alternate" href="/es/tags/regression/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="/en/tags/regression/" hreflang="en"/>
     
       <loc>/es/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
